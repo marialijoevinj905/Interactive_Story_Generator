@@ -1,7 +1,3 @@
-Sure! Here is a comprehensive README for the Interactive Story Generator project:
-
----
-
 # Interactive Story Generator
 
 ## Overview
